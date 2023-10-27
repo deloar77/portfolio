@@ -1,0 +1,14 @@
+[
+    {
+        "title":"tailwind",
+        "desc":"Tailwind CSS is the greatest CSS framework on the planet. I started using @tailwindcss. I instantly fell in love with their responsive modifiers, thorough documentation, and how easy it was customizing color palettes."
+    },
+    {
+        "title":"laravel",
+        "desc":"Laravel developers use the Laravel web framework to design and build web applications, services, sites, and tools. Laravel is a PHP-based, MVC architecture that relies on OOP to create websites, databases, forums, and caches. The framework's tools and libraries let Laravel developers quickly develop robust software that is scalable."
+    },
+    {
+        "title":"bootstrap",
+        "desc":"Laravel developers use the Laravel web framework to design and build web applications, services, sites, and tools. Laravel is a PHP-based, MVC architecture that relies on OOP to create websites, databases, forums, and caches. The framework's tools and libraries let Laravel developers quickly develop robust software that is scalable."
+    }
+]

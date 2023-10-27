@@ -1,0 +1,22 @@
+[
+    {
+        "title":"e-commerce site",
+         "project":"projects",
+        "img":"https://media.istockphoto.com/id/1347626309/photo/latina-female-using-desktop-computer-with-clothing-online-web-store-to-choose-and-buy-clothes.jpg?s=612x612&w=0&k=20&c=SGKPpmCvxMFYld_4MXuSUBFmAcHylKNp2kJgWuszmgw="
+    },
+    {
+        "title":"Fermacy management site",
+        "project":"projects",
+        "img":"https://media.istockphoto.com/id/559537925/photo/pharmacist-filling-prescription-in-pharmacy.webp?s=2048x2048&w=is&k=20&c=GocMXzhdv8ivETxN-lphwpgVSYuCT5-CCfEUgfRFLM4="
+    },
+    {
+        "title":"bank management site",
+        "project":"projects",
+        "img":"https://images.pexels.com/photos/11284045/pexels-photo-11284045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "title":"school management site",
+        "project":"projects",
+        "img":"https://media.istockphoto.com/id/1500076821/photo/happy-black-teenage-girl-in-high-school-hallway-looking-at-camera.webp?s=2048x2048&w=is&k=20&c=qlleO8x5nawaS0XkTJAS6MnscSrgBZhLUVm_6AMo9VE="
+    }
+]
